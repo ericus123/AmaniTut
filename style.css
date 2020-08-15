@@ -1,0 +1,26 @@
+html,
+body {
+  height: 100%;
+  background: white;
+}
+
+nav {
+  background: black;
+  height: 10vh;
+}
+ul {
+  display: flex;
+  color: white;
+  list-style: none;
+}
+
+li {
+  margin: 0.5% 3% 0.5% 1%;
+  padding: 15px;
+}
+li:hover {
+  background: silver;
+  color: black;
+}
+
+/*Thanks for watching guys :)*/
